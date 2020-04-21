@@ -12,4 +12,4 @@ If you are a developer and would like to contribute, Join us on [GitHub](https:/
 
 **What's next?**
 
-- [Installation](/installation)
+- [Installation](https://tastyigniter.com/docs/2.0/installation)
